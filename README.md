@@ -1,6 +1,8 @@
 # VR Magic
 Magic system designed for VR games.  Uses spells drawn in the air and a projection system to recognize what's being cast.
 
+Built in October, 2020.
+
 ![Demo Image](./Demo.png)
 
 ## Summary
@@ -15,4 +17,4 @@ I plan to eventually re-vitalize this project thanks to The Owl House and the in
 
 Alternatively, I'd like to see if I can build a fully motion-based magic system akin to water-bending from Avatar: The Last Airbender.  This is, again, rather more difficult to code, but it would also be incredibly fun if it ever worked.
 
-![Demo Video](./Demo.m4v)
+[Demo Video](./Demo.m4v)
